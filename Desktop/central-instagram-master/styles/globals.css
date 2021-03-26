@@ -1,0 +1,24 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background-color: #000;
+}
+
+:root {
+  --color-primary: #bf00b5;
+  --color-secondary: #8257e6;
+  --color-gradient: linear-gradient(155.34deg,#8257e6 -0.59%,#bf00b5 80%);
+  --color-white: #fff;
+  --color-gray: #c0c0c0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
