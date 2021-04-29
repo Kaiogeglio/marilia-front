@@ -17,6 +17,16 @@ export default function Home() {
           height={40}
         />
         <h1 className={styles.title}>Seja bem-vindo!</h1>
+
+        <div className={styles.event}>
+          <Image 
+            src="/logo-dmw.png"
+            width={330}
+            height={110}
+          />
+          <p>Evento Online e Gratuito</p>
+          <button>Inscreva-se!</button>
+        </div>
         <div className={styles.grid}>
           <a href="https://www.youtube.com/channel/UCr9L-arygsO1V4XU4AVnhWw" className={styles.card}>
             <h3>Youtube &rarr;</h3>
