@@ -1,0 +1,58 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363.36 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #00f2e6;
+      }
+
+      .cls-3 {
+        fill: #00b9f1;
+      }
+
+      .cls-4 {
+        fill: #d63aff;
+      }
+
+      .cls-5 {
+        fill: #fb015b;
+      }
+    </style>
+  </defs>
+  <g id="Page-1">
+    <g id="jwt_logo" data-name="jwt logo">
+      <g id="Group">
+        <g id="Shape">
+          <g>
+            <path class="cls-1" d="M65.35,30.9,65.25,4h-15l.1,26.9,7.5,10.3Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-1" d="M50.35,77v27h15V77l-7.5-10.3Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-2" d="M65.35,77l15.8,21.8L93.25,90,77.45,68.2l-12.1-3.9Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-2" d="M50.35,30.9,34.45,9.1l-12.1,8.8,15.8,21.8,12.2,3.9Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-3" d="M38.15,39.7l-25.6-8.3L8,45.6,33.55,54l12.1-4Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-3" d="M70,57.9l7.5,10.3,25.6,8.3,4.6-14.2L82.05,54Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-4" d="M82.05,54l25.6-8.4-4.6-14.2-25.6,8.3L70,50Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-4" d="M33.55,54,8,62.3l4.6,14.2,25.6-8.3,7.5-10.3Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-5" d="M38.15,68.2,22.35,90l12.1,8.8L50.35,77V64.3Z" transform="translate(-7.95 -4)"/>
+            <path class="cls-5" d="M77.45,39.7l15.8-21.8L81.15,9.1,65.35,30.9V43.6Z" transform="translate(-7.95 -4)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Page-1-2" data-name="Page-1">
+    <g id="jwt_logo-2" data-name="jwt logo">
+      <g id="Group-2" data-name="Group">
+        <g id="Shape-2" data-name="Shape">
+          <path class="cls-1" d="M153,22.6V75.81A21.35,21.35,0,0,1,131.69,97.1V86.46a10.58,10.58,0,0,0,10.64-10.65V22.6ZM347.29,33.24h24V22.6H312.77V33.24h23.87V97.1h10.65V33.24ZM280.69,22.6V75.81a10.64,10.64,0,1,1-21.28,0V43.89a21.29,21.29,0,0,0-42.58,0V75.81a10.64,10.64,0,1,1-21.28,0V22.6H184.91V75.81a21.29,21.29,0,1,0,42.57,0V43.89a10.64,10.64,0,1,1,21.28,0h0V75.81a21.29,21.29,0,1,0,42.57,0V22.6Z" transform="translate(-7.95 -4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

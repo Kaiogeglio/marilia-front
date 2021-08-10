@@ -1,0 +1,58 @@
+.faq {
+  grid-area: faq;
+  padding: 0 15%;
+  margin: 100px 0;
+}
+
+.descriptionFaq {
+  margin: 10px 0 50px 0;
+  line-height: 25px;
+  color: var(--color-gray-light);
+}
+
+.faq p {
+  line-height: 25px;
+  color: var(--color-gray-light);
+}
+
+.questionContainer + .questionContainer {
+  margin-top: 10px;
+}
+
+.question {
+  display: grid;
+  grid-template-columns: 50px auto 50px;
+  border-radius: 6px;
+  background: var(--color-gray);
+  padding: 5%;
+  align-items: center;
+  grid-column-gap: 10px;
+}
+
+.question h5, 
+.question h6 {
+  margin: 0;
+}
+
+.question h6 {
+  color: var(--color-purple);
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.question h5 {
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+.question i {
+  color: var(--color-purple);
+  font-size: 2.33rem;
+  cursor: pointer;
+}
+
+.answer {
+  padding: 5%;
+  background: var(--color-gray-secondary);
+  border-radius: 6px;
+}
