@@ -1,0 +1,18 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 2%;
+  align-items: center;
+}
+
+.link {
+  display: flex;
+}
+
+.link a {
+  margin-left: 20px;
+}
+
+.link a:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,48 @@
+.homenagem {
+  padding-top: 40px;
+  padding-bottom: 40px;
+} 
+
+.homenagem h2 {
+  color: #FF8A00;
+  font-size: 30px;
+}
+
+.cardContainer {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 15px;
+}
+
+.card {
+  background-color: #161515;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.card .name {
+  color: #FF8A00;
+  font-size: 20px;
+}
+
+.card .description {
+  color: #C4C4C4;
+}
+
+@media (max-width: 1150px) {
+  .cardContainer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 800px) {
+  .cardContainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .cardContainer {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
